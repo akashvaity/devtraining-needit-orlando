@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_sign_off" label="UAT Sign Off" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_sign_off</element>
+            <help/>
+            <hint/>
+            <label>UAT Sign Off</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>UAT Sign Offs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-18 14:04:21</sys_created_on>
+            <sys_id>8d0aa28e07171010e9bffa7f7c1ed093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>UAT Sign Off</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_u_sign_off_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-18 14:04:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

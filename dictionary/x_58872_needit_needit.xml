@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Release date" max_length="40" name="u_release_date" type="calendar_date_time"/>
+        <element label="UAT Sign Off" max_length="40" name="u_sign_off" type="boolean"/>
+    </element>
+</database>
